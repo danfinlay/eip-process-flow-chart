@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="-39.5 -179.50634 1123.4445 950.5511" width="1123.4445" height="950.5511">
+  <defs>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.8 
+    <dc:date>2018-07-16 18:20:46 +0000</dc:date>
+  </metadata>
+  <g id="Canvas_1" fill-opacity="1" stroke-dasharray="none" stroke="none" stroke-opacity="1" fill="none">
+    <title>Canvas 1</title>
+    <rect fill="white" x="-39.5" y="-179.50634" width="1123.4445" height="950.5511"/>
+    <g id="Canvas_1: Layer 1">
+      <title>Layer 1</title>
+      <g id="Graphic_10">
+        <rect x="643.47795" y="343.62318" width="173.5" height="102.5" fill="white"/>
+        <rect x="643.47795" y="343.62318" width="173.5" height="102.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(648.47795 385.6492)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="17.606" y="15">All Core Devs Call</tspan>
+        </text>
+      </g>
+      <g id="Graphic_11">
+        <rect x="243.19378" y="392.75" width="127.5" height="166" fill="white"/>
+        <rect x="243.19378" y="392.75" width="127.5" height="166" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(248.19378 420.63)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="17.558" y="15">Discussion:</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="25.262" y="51.448">Github or </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="16.526" y="69.896">increasingly </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="21.102" y="88.34399">“Ethereum </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="18.894" y="106.79199">Magicians”</tspan>
+        </text>
+      </g>
+      <g id="Line_13">
+        <line x1="370.6938" y1="463.5693" x2="633.75386" y2="413.30646" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_14">
+        <rect x="404.4519" y="427.5023" width="153" height="30" fill="white"/>
+        <text transform="translate(409.4519 433.2783)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x=".084" y="15">If a protocol change</tspan>
+        </text>
+      </g>
+      <g id="Graphic_15">
+        <rect x="-39" y="424.5" width="153" height="102.5" fill="#80ffff"/>
+        <rect x="-39" y="424.5" width="153" height="102.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-34 466.526)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="44.532" y="15">Anyone</tspan>
+        </text>
+      </g>
+      <g id="Line_18">
+        <line x1="114" y1="475.75" x2="233.29378" y2="475.75" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_20">
+        <rect x="723" y="655.5448" width="169" height="115" fill="#c0ffc0"/>
+        <rect x="723" y="655.5448" width="169" height="115" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(728 703.8208)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="52.164" y="15">Merged</tspan>
+        </text>
+      </g>
+      <g id="Line_25">
+        <path d="M 678.1371 577 C 618.91916 621.18964 520.01685 682.9611 441.7771 672 C 382.04785 663.6322 348.36218 614.83736 329.59755 568.0013" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_27">
+        <rect x="653.72795" y="155.69427" width="153" height="102.5" fill="white"/>
+        <rect x="653.72795" y="155.69427" width="153" height="102.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(658.72795 188.49627)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="7.18" y="15">Clients implement </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="16.964" y="33.448">hard fork patch</tspan>
+        </text>
+      </g>
+      <g id="Line_28">
+        <line x1="730.22795" y1="343.62318" x2="730.22795" y2="268.09427" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_31">
+        <path d="M 643.47795 363.0621 C 578.0343 342.43783 488.2902 321.62032 420.69277 334.53614 C 378.64714 342.5698 352.1019 362.32983 335.35646 384.60567" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_32">
+        <rect x="278.84737" y="315.62417" width="362" height="30" fill="white"/>
+        <text transform="translate(283.84737 321.40017)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x=".432" y="15">Deferred, Rejected, or Rejected with contingency</tspan>
+        </text>
+      </g>
+      <g id="Graphic_33">
+        <rect x="604.72795" y="286.44628" width="251" height="30" fill="white"/>
+        <text transform="translate(609.72795 292.22228)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x=".484" y="15">If technically sound and favorable</tspan>
+        </text>
+      </g>
+      <g id="Graphic_38">
+        <rect x="662.5405" y="493" width="134.65437" height="84" fill="white"/>
+        <rect x="662.5405" y="493" width="134.65437" height="84" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(667.5405 516.552)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="32.399187" y="15">Propose </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="24.415187" y="33.448">finalization</tspan>
+        </text>
+      </g>
+      <g id="Graphic_40">
+        <rect x="143.16178" y="460.75" width="74" height="30" fill="white"/>
+        <text transform="translate(148.16178 466.526)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x=".296" y="15">Proposal</tspan>
+        </text>
+      </g>
+      <g id="Graphic_41">
+        <rect x="654.6949" y="-26.00634" width="153" height="102.5" fill="white"/>
+        <rect x="654.6949" y="-26.00634" width="153" height="102.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(659.6949 6.795661)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="17.124" y="15">Miners &amp; Users </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="14.148" y="33.448">Update or Don’t</tspan>
+        </text>
+      </g>
+      <g id="Line_42">
+        <line x1="730.5007" y1="155.69427" x2="730.8695" y2="86.39352" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_43">
+        <rect x="664.1949" y="104.20155" width="133" height="30" fill="white"/>
+        <text transform="translate(669.1949 109.97756)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x=".156" y="15">All clients update</tspan>
+        </text>
+      </g>
+      <g id="Graphic_45">
+        <rect x="433.23104" y="-179.00634" width="153" height="102.5" fill="#c0ffc0"/>
+        <rect x="433.23104" y="-179.00634" width="153" height="102.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(438.23104 -136.98034)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="8.092" y="15">Perfect Hard Fork</tspan>
+        </text>
+      </g>
+      <g id="Line_46">
+        <line x1="657.0117" y1="-26.00634" x2="592.0594" y2="-70.87915" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_47">
+        <rect x="879.231" y="-179.00634" width="204.21346" height="102.5" fill="#ffc0c0"/>
+        <rect x="879.231" y="-179.00634" width="204.21346" height="102.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(884.231 -164.65234)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="4.63473" y="15">Irreconcilable Differences, </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="6.28273" y="33.448">but at least your new fork </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="8.36273" y="51.895996">includes people who feel </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="45.98673" y="70.34399">the same way.</tspan>
+        </text>
+      </g>
+      <g id="Graphic_48">
+        <rect x="543.94824" y="-64.88479" width="157" height="30" fill="white"/>
+        <text transform="translate(548.94824 -59.10879)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x=".308" y="15">All clients adopt fork</tspan>
+        </text>
+      </g>
+      <g id="Line_49">
+        <line x1="807.6949" y1="-21.547594" x2="889.1026" y2="-71.34067" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_50">
+        <rect x="732.09165" y="-61.2563" width="232" height="30" fill="white"/>
+        <text transform="translate(737.09165 -55.4803)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x=".304" y="15">Some clients do not adopt fork</tspan>
+        </text>
+      </g>
+      <g id="Graphic_51">
+        <rect x="367.376" y="654.7132" width="256" height="30" fill="white"/>
+        <text transform="translate(372.376 660.4892)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x=".304" y="15">Valid Technical Objections Remain</tspan>
+        </text>
+      </g>
+      <g id="Line_52">
+        <line x1="748.1808" y1="577" x2="778.4716" y2="646.46994" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_53">
+        <rect x="682.571" y="598.4432" width="163" height="30" fill="white"/>
+        <text transform="translate(687.571 604.2192)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x=".484" y="15">No objections remain</tspan>
+        </text>
+      </g>
+      <g id="Line_54">
+        <path d="M 806.7279 197.06231 C 846.2203 186.30908 893.1612 164.1096 927.3937 118.48161 C 969.6011 62.22396 980.7139 -13.954462 982.7716 -66.61321" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_56">
+        <rect x="839.4536" y="38.321145" width="244" height="30" fill="white"/>
+        <text transform="translate(844.4536 44.097146)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x=".376" y="15">Not all clients implement change</tspan>
+        </text>
+      </g>
+      <g id="Line_57">
+        <line x1="370.6938" y1="484.6811" x2="652.73624" y2="524.1942" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_58">
+        <rect x="421.65185" y="488.3781" width="165" height="30" fill="white"/>
+        <text transform="translate(426.65185 494.1541)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x=".308" y="15">Non Protocol Change</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>
