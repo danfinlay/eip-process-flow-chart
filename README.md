@@ -2,7 +2,7 @@
 
 A flow chart representing the current governance process of the Ethereum blockchain, as best as I have been able to document it.
 
-![process-flow-chart](./EIP Process.svg)
+!(process-flow-chart)[./EIP Process.svg]
 
 ## Contributing
 
